@@ -3,6 +3,8 @@ Based on watching [this](https://www.youtube.com/watch?v=E8cM12jRH7k) video.
 
 ## Reading Documentation
 
+I started my official journey of learning Javascript with the [Mozilla Javascript References](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 Reading some formal or review documentation of the language before you jump into actual coding is sometimes necessary
 If you are coming from an OOP-language and are attempting to learn a functional one, some overview of the syntax and patterns available are important. Even just planning the idea in your head so you can look it up later is important to start the journey.
 
